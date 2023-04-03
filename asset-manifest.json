@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/factorio-mod-manager/static/css/main.e6c13ad2.css",
+    "main.js": "/factorio-mod-manager/static/js/main.94beab75.js",
+    "index.html": "/factorio-mod-manager/index.html",
+    "main.e6c13ad2.css.map": "/factorio-mod-manager/static/css/main.e6c13ad2.css.map",
+    "main.94beab75.js.map": "/factorio-mod-manager/static/js/main.94beab75.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.94beab75.js"
+  ]
+}
